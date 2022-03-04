@@ -1,3 +1,9 @@
 flour
 sugar
-salt 
+salt
+eggs 
+garlic
+
+onion
+tomato
+
